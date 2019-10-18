@@ -1,0 +1,28 @@
+[Sat Oct 05 15:04:34.605332 2019] [mpm_event:notice] [pid 398:tid 139984221308800] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Sat Oct 05 15:04:34.605424 2019] [core:notice] [pid 398:tid 139984221308800] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 07 10:41:14.731091 2019] [mpm_event:notice] [pid 479:tid 139938283304832] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Mon Oct 07 10:41:14.731418 2019] [core:notice] [pid 479:tid 139938283304832] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Oct 08 10:27:55.035696 2019] [mpm_event:notice] [pid 157:tid 139641847310208] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Tue Oct 08 10:27:55.035768 2019] [core:notice] [pid 157:tid 139641847310208] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Oct 09 09:23:45.544569 2019] [mpm_event:notice] [pid 320:tid 139666889852800] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Oct 09 09:23:45.544678 2019] [core:notice] [pid 320:tid 139666889852800] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Oct 10 14:31:02.415314 2019] [mpm_event:notice] [pid 267:tid 139960889808768] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Oct 10 14:31:02.415390 2019] [core:notice] [pid 267:tid 139960889808768] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Oct 13 13:48:46.971948 2019] [mpm_event:notice] [pid 240:tid 140087338022784] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Sun Oct 13 13:48:46.972106 2019] [core:notice] [pid 240:tid 140087338022784] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 14 08:29:39.936847 2019] [mpm_event:notice] [pid 207:tid 140154470418304] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Mon Oct 14 08:29:39.936918 2019] [core:notice] [pid 207:tid 140154470418304] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 14 17:46:48.854947 2019] [mpm_event:notice] [pid 108:tid 140307808315264] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Mon Oct 14 17:46:48.855110 2019] [core:notice] [pid 108:tid 140307808315264] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 14 17:50:47.858164 2019] [mpm_event:notice] [pid 196:tid 140657511745408] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Mon Oct 14 17:50:47.858272 2019] [core:notice] [pid 196:tid 140657511745408] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Oct 15 04:46:58.358527 2019] [mpm_event:notice] [pid 218:tid 139869409859456] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Tue Oct 15 04:46:58.358612 2019] [core:notice] [pid 218:tid 139869409859456] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Oct 16 13:24:06.465143 2019] [mpm_event:notice] [pid 101:tid 140652854888320] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Oct 16 13:24:06.488946 2019] [core:notice] [pid 101:tid 140652854888320] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Oct 18 10:24:47.958624 2019] [mpm_event:notice] [pid 169:tid 140202183673728] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Fri Oct 18 10:24:47.958698 2019] [core:notice] [pid 169:tid 140202183673728] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Oct 18 10:24:48.690163 2019] [proxy:error] [pid 176:tid 140202076686080] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Fri Oct 18 10:24:48.690241 2019] [proxy_fcgi:error] [pid 176:tid 140202076686080] [client 172.17.0.1:40754] AH01079: failed to make connection to backend: httpd-UDS
+[Fri Oct 18 12:47:05.981039 2019] [mpm_event:notice] [pid 256:tid 140410973054848] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Fri Oct 18 12:47:05.981112 2019] [core:notice] [pid 256:tid 140410973054848] AH00094: Command line: '/usr/sbin/apache2'
