@@ -63,7 +63,7 @@
         <li class="m_icon2 menu-item"><a href="#">メニュー2</a></li>
         <li class="m_icon3 menu-item"><a href="#">メニュー3</a></li>
         <li class="m_icon4 menu-item"><a href="#">メニュー4</a></li>
-        <li class="m_icon5 menu-item"><a href="#">メニュー5</a></li>
+        <li class="m_icon5 menu-item"><a href="http://test.local/お問い合わせ/">お問い合わせ</a></li>
       </ul>
     </div><!-- /inner -->
   </nav><!-- header-nav -->

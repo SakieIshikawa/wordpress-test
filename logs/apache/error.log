@@ -26,3 +26,11 @@
 [Fri Oct 18 10:24:48.690241 2019] [proxy_fcgi:error] [pid 176:tid 140202076686080] [client 172.17.0.1:40754] AH01079: failed to make connection to backend: httpd-UDS
 [Fri Oct 18 12:47:05.981039 2019] [mpm_event:notice] [pid 256:tid 140410973054848] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
 [Fri Oct 18 12:47:05.981112 2019] [core:notice] [pid 256:tid 140410973054848] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Oct 19 10:34:59.706962 2019] [mpm_event:notice] [pid 239:tid 140164022597504] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Sat Oct 19 10:34:59.707042 2019] [core:notice] [pid 239:tid 140164022597504] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Oct 20 06:58:34.342028 2019] [mpm_event:notice] [pid 299:tid 139957137061760] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Sun Oct 20 06:58:34.342428 2019] [core:notice] [pid 299:tid 139957137061760] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Oct 22 13:57:25.995006 2019] [mpm_event:notice] [pid 97:tid 139748924151680] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Tue Oct 22 13:57:25.995621 2019] [core:notice] [pid 97:tid 139748924151680] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Oct 22 14:01:16.355777 2019] [proxy_fcgi:error] [pid 105:tid 139748681172736] [client 172.17.0.1:58894] AH01068: Got bogus version 92, referer: http://test.local/wp-admin/plugin-install.php?s=con&tab=search&type=term
+[Tue Oct 22 14:01:16.356222 2019] [proxy_fcgi:error] [pid 105:tid 139748681172736] (22)Invalid argument: [client 172.17.0.1:58894] AH01075: Error dispatching request to : (passing brigade to output filters), referer: http://test.local/wp-admin/plugin-install.php?s=con&tab=search&type=term

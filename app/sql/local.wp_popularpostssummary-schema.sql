@@ -11,4 +11,4 @@ CREATE TABLE `wp_popularpostssummary` (
   KEY `postid` (`postid`),
   KEY `view_date` (`view_date`),
   KEY `view_datetime` (`view_datetime`)
-) ENGINE=InnoDB AUTO_INCREMENT=37 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=46 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;

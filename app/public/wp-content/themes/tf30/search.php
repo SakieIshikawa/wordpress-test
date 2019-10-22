@@ -53,10 +53,16 @@
 
           <?php endwhile; ?>
         </div><!-- /entries -->
+
+        <!-- 検索結果が見つからなかった場合 -->
+      <?php else : ?>
+        <div class="error">
+          <p>お探しの記事は見つかりませんでした。</p>
+        </div>
       <?php endif; ?>
 
 
-      <!-- pagenation -->
+      <!-- pagenation/テンプレート -->
       <?php get_template_part('template-parts/pagenation'); ?>
 
     </main><!-- /primary -->

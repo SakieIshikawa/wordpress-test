@@ -6,7 +6,7 @@
   <div class="widget widget_text widget_custom_html">
     <div class="widget-title">プロフィール</div>
     <div class="wprofile">
-      <div class="wprofile-img"><img src="<?php echo get_template_directory_uri(); ?>/img/face-icon.png" alt=""></div>
+      <div class="wprofile-img"><img src="<?php echo get_template_directory_uri(); ?>/img/face-iconkk.png" alt=""></div>
       <div class="wprofile-content">
         <p>sample</p>
       </div>

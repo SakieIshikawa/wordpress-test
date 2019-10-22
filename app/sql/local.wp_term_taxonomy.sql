@@ -2,7 +2,7 @@
 /*!40014 SET FOREIGN_KEY_CHECKS=0*/;
 /*!40103 SET TIME_ZONE='+00:00' */;
 INSERT INTO `wp_term_taxonomy` VALUES
-(1,1,"category","カテゴリー未選択の記事です",0,3),
+(1,1,"category","カテゴリー未選択の記事です",0,4),
 (2,2,"category","htmlのカテゴリー",0,9),
 (3,3,"category","cssに関する記事をまとめています。",0,6),
 (4,4,"post_tag","javascriptに関する記事",0,3),

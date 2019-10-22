@@ -76,7 +76,7 @@ INSERT INTO `wp_postmeta` VALUES
 (151,58,"view_counter","1"),
 (152,60,"_edit_lock","1571394209:1"),
 (155,60,"_thumbnail_id","21"),
-(156,60,"view_counter","1"),
+(156,60,"view_counter","6"),
 (157,33,"view_counter","1"),
 (158,26,"view_counter","1"),
 (159,25,"view_counter","1"),
@@ -84,4 +84,10 @@ INSERT INTO `wp_postmeta` VALUES
 (161,2,"view_counter","1"),
 (162,62,"_edit_lock","1571399822:1"),
 (163,62,"view_counter","1"),
-(164,12,"view_counter","1");
+(164,12,"view_counter","1"),
+(165,3,"view_counter","1"),
+(166,64,"_edit_lock","1571556126:1"),
+(167,65,"_edit_lock","1571555842:1"),
+(168,65,"view_counter","1"),
+(171,64,"view_counter","1"),
+(172,69,"_edit_lock","1571556735:1");
